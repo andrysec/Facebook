@@ -3,8 +3,6 @@ Facebook Dellete inactive users
 
 ©Copyright : Github.com/andrysec
 
-Recode by Dandy
-
 ## Install
       $ pkg install php
       $ git clone https://github.com/andrysec/Facebook.git
