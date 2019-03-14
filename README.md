@@ -1,13 +1,13 @@
 # FacebookUnfriend
 Facebook Dellete inactive users
 
-© JANTER https://pastebin.com/kbsCFyAs
+©Copyright : Github.com/andrysec
 
 Recode by Dandy
 
 ## Install
       $ pkg install php
-      $ git clone https://github.com/dandyraka/FacebookUnfriend.git
+      $ git clone https://github.com/andrysec/Facebook.git
       $ cd FacebookUnfriend
 
 ## Run
